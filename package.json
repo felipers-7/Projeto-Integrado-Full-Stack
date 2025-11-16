@@ -1,0 +1,20 @@
+{
+  "name": "projeto-integrador",
+  "version": "1.0.0",
+  "description": "Porjeto integrador Full stack",
+  "homepage": "https://github.com/felipers-7/Projeto-Integrado-Full-Stack#readme",
+  "bugs": {
+    "url": "https://github.com/felipers-7/Projeto-Integrado-Full-Stack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipers-7/Projeto-Integrado-Full-Stack.git"
+  },
+  "license": "ISC",
+  "author": "Felipinholindinho",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  }
+}
